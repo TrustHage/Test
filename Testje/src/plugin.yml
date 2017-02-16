@@ -1,0 +1,8 @@
+name: Test
+main: me.trusthage.other.Main
+author: TrustHage
+version: 1.0
+
+commands:
+  enderchest:
+    description: open a players' enderchest
